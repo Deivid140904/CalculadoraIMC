@@ -9,7 +9,7 @@ O app tem como objetivo **calcular o IMC (Índice de Massa Corporal)** a partir 
 
 ---
 
-###  Desenvolvedora
+###  Desenvolvedor
 
 - **Nome:** Deivid Gomes de Oliveira 
 - **Curso:** Análise e Desenvolvimento de Sistemas  
